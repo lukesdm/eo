@@ -1,9 +1,10 @@
 # About
-Originally a software developer, a fondness for travel, the outdoors and nature led Luke to studying Geoinformatics at Paris-Lodron-University of Salzburg's [Z_GIS](https://www.plus.ac.at/geoinformatik/?lang=en). Notes from a previous life in electronics and multimedia technology have been dusted off, and are being applied to the field of Earth observation.
+
+I'm a researcher in the University of Salzburg's [EO Analytics group](https://www.plus.ac.at/geoinformatik/research/research-areas/eo-analytics/?lang=en), working on semantic Earth Observation Data Cubes - the platform and their use. Previously a software developer, a fondness for travel, the outdoors and nature led me to Geoinformatics at Paris-Lodron-University of Salzburg's [Z_GIS](https://www.plus.ac.at/geoinformatik/?lang=en). I also try to make use of notes from a life before that, of electronics and multimedia technology.
 
 <img src="assets/flags/4x3/at.svg" height="12" alt="Austria"> 2021 - now
-* Studying full-time in Salzburg.
-* Working part-time as a researcher/software engineer in the University of Salzburg's [EO Analytics group](https://www.plus.ac.at/geoinformatik/research/research-areas/eo-analytics/?lang=en).
+* Working as a researcher/software engineer in the University of Salzburg's [EO Analytics group](https://www.plus.ac.at/geoinformatik/research/research-areas/eo-analytics/?lang=en).
+* Completed an MSc in Applied Geoinformatics at the University of Salzburg (March 2025).
 
 <img src="assets/flags/4x3/ic.svg" height="12" alt="Canary Islands"> 2018 - 2021
 * Various web contract/freelance roles, from .NET to PHP and JavaScript/TypeScript.
