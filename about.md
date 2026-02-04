@@ -1,6 +1,6 @@
 # About
 
-I'm a researcher in the University of Salzburg's [EO Analytics group](https://www.plus.ac.at/geoinformatik/research/research-areas/eo-analytics/?lang=en), working on semantic Earth Observation Data Cubes - the platform and their use. Previously a software developer, a fondness for travel, the outdoors and nature led me to Geoinformatics at Paris-Lodron-University of Salzburg's [Z_GIS](https://www.plus.ac.at/geoinformatik/?lang=en). I also try to make use of notes from a life before that, of electronics and multimedia technology.
+I'm a researcher in the University of Salzburg's [EO Analytics group](https://www.plus.ac.at/geoinformatik/research/research-areas/eo-analytics/?lang=en), working on Semantic Earth Observation Data Cubes - the platform and their use. Previously a software developer, a fondness for travel, the outdoors and nature led me to Geoinformatics at Paris-Lodron-University of Salzburg's [Z_GIS](https://www.plus.ac.at/geoinformatik/?lang=en). I also try to make use of notes from a life before that, of electronics and multimedia technology.
 
 <img src="assets/flags/4x3/at.svg" height="12" alt="Austria"> 2021 - now
 * Working as a researcher/software engineer in the University of Salzburg's [EO Analytics group](https://www.plus.ac.at/geoinformatik/research/research-areas/eo-analytics/?lang=en).
