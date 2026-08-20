@@ -5,7 +5,7 @@
 Presented at [MIGARS 2025](https://migars.upb.ro/), 4 September, Bucharest, Romania. [Paper](works/MIGARS_2025_McQuade_Paper.pdf) ([DOI](https://doi.org/10.1109/migars67156.2025.11231788)), [slides](works/MIGARS_2025_McQuade_Slides.pdf).
 
 
-Update (Aug. 2026): Extended paper accepted for publication in IEEE Geoscience and Remote Sensing Letters: , _Efficient semantic content-based image retrieval with cloud-optimized raster formats_, [Paper](works/GRSL_2026_ESCIBR_EarlyAccess.pdf) ([DOI](https://doi.org/10.1109/LGRS.2026.3720762)), [code](https://github.com/lukesdm/eaggq-materials).
+Update (Aug. 2026): Extended paper accepted for publication in IEEE Geoscience and Remote Sensing Letters, _Efficient semantic content-based image retrieval with cloud-optimized raster formats_. [Paper](works/GRSL_2026_ESCIBR_EarlyAccess.pdf) ([DOI](https://doi.org/10.1109/LGRS.2026.3720762)), [code](https://github.com/lukesdm/eaggq-materials).
 
 <br>
 
